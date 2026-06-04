@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+influxdb-client
+pandas
+python-dotenv
+pydantic
+gitpython
+watchdog
